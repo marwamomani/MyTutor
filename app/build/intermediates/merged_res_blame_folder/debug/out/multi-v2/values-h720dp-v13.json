@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.psut.mytutor.app-mergeDebugResources-24:/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "com.psut.mytutor.app-mergeDebugResources-27:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MOMANI\\.gradle\\caches\\transforms-3\\ad4a9900ee650cab445b7a64bbefb6e8\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\MOMANI\\.gradle\\caches\\transforms-3\\3346b3adbf4b5fa04d5500b9c9a82404\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

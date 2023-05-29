@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.psut.mytutor.app-mergeDebugResources-24:/values-v17/values-v17.xml",
+            "outputFile": "com.psut.mytutor.app-mergeDebugResources-27:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MOMANI\\.gradle\\caches\\transforms-3\\ad4a9900ee650cab445b7a64bbefb6e8\\transformed\\appcompat-1.4.1\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\MOMANI\\.gradle\\caches\\transforms-3\\3346b3adbf4b5fa04d5500b9c9a82404\\transformed\\appcompat-1.4.1\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

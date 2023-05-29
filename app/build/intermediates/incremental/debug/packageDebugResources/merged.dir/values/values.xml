@@ -8,6 +8,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">MyTutor</string>
+    <string name="gcm_defaultSenderId" translatable="false">362267313625</string>
+    <string name="google_api_key" translatable="false">AIzaSyCbkPi8dm0JP46_HPfVVbg4zld02EYu5hw</string>
+    <string name="google_app_id" translatable="false">1:362267313625:android:5113cdc44001760b6e05c8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbkPi8dm0JP46_HPfVVbg4zld02EYu5hw</string>
+    <string name="google_storage_bucket" translatable="false">mytutor-cea0b.appspot.com</string>
+    <string name="project_id" translatable="false">mytutor-cea0b</string>
     <style name="Theme.MyTutor" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

@@ -4,46 +4,64 @@ ADDED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidMan
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:1-30:12
-MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7002d12afc6e953a9fbc2fda920e3422\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6571209f3fbd259d19d2adf408a1b7c0\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\c881b55119de1c3146a205041c150674\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\ad4a9900ee650cab445b7a64bbefb6e8\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e2ead5f317d22088c48cad1a61f8b969\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\MOMANI\.gradle\caches\transforms-3\aabd96d17d3f8389713fa62fe78ebf8d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.2.4] C:\Users\MOMANI\.gradle\caches\transforms-3\d9232303d763ecf06e1d0bf7fdf95963\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\5bd123c6721d686da853b73d0271c146\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e3edafebae16c4a714f78b69e1a2b42e\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\47ac39755f246ef2ff54ad5b7942d42f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e5a7f5c955953cc9d13feeef1215b998\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\385e466706e73bb3d73bbe6b4875519d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9e273d98ab3096fcf193178fecca25fc\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f64967c674a30b5964ec360f3fe1fd1e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\1cbb9568b0ad18efcfa640a8dc80d6d7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\aa8ac483add921dafa22eb66b84f2064\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\74dede7469dde4ebb849523538d1356b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5ce07e52a7d4e86d32024963e64ae55f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\bebc84e5611febee61e63b319d718ccf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\164e3c0afb92a7e3b5c15f9935adbebd\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\d61520087bb53d23a4e3afad5636d15d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\9fd09e59b026a4322a59de35da9a666a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6eae727b2a94f7298932b49e5c09d20b\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\fd709bc2c3799f8b0fbf7f37a12ccad1\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\4ed59577b3c31daa698d7cd9567771e1\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\79e57da9ef16725cd636178f64b7ce13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\b757991fd5fc3fc47c8c905252c7f81f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\baff6bc1dec7633aaeef1184ff5f66bb\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0de8b80e80221d3f31c9086666059ce1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\de2279805fd1769856255174ea323925\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\a91d0e13601b70491790d353890fd533\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\956c598be0a4b8aadc8deba61d585f55\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\febd829689cec484008b678572545c38\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\41ab52a07574b2a110c4411d60a20337\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\3346b3adbf4b5fa04d5500b9c9a82404\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\cb270c4efb9a6b7ed2266f3ec12af8b5\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\c179d4eea858371ad05f10dcd184094d\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\81fcb45acc36e7fc786089c6eca3fdb9\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2cab7994b4cdc123ed69660219d245c7\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\6c89000cbfbe004410faaa5865ca3a2e\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e916672cf7c85d44fdb430f291fe8e84\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\394bf0a94671222561620eb7f669f5ac\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\252100158a9f6a71a34235d0d52c12dc\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\MOMANI\.gradle\caches\transforms-3\d4b60b6551f9b8646394b11c59397093\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\MOMANI\.gradle\caches\transforms-3\a14e051a2a462612fcb6fd2aa5fdd9f1\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\4dc1efedb77a02dcf47f417ec36d3ec9\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98aac9701b0afce894150d0299208434\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\d355efa70f4e064576cae249b839ce32\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3ac5d06fddfaf02598d25854c3effa92\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\b428c918418af08e6934797c08866bcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7ce4db31cc83ac522b81e097964a1173\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2c212ed3ff03dab422ad98605fcf3094\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9de1fe3f11bd0588087df86525362cc8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\de501faffd8dab867ea3c3eb4ef90f62\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\c067b648f1133eea7b7c85bb85311739\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f97e629bb2a47248606a920c25763444\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0480317d4db7a4ef827f9259d72f4877\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\759755c034709e57aeb3c75ee8cd94b1\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\442968ce15c5dd5d562713229be1b38c\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\09af22c0ef67c98177b78500fd9e0d0a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\806bea8dc90b3c63e0fff64f5862575f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\095f772ab9317603c5baa830f746d6ec\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\22bcdd9445be8184c68a7afa41660aa0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\4510b72cbbd30a5bba59d31ad935134e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\8f5484dbab92e3ed251afe1b00389c68\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\395865d846ce0c79f26c1a87fa2b7d9b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\ae2794b5ae87b357067c079d507b318a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\fb17f97d0d119703015996409be47c7c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\15f0ad14e50f93d4786bde444fa7b4c1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\d128e6f5281b62981bf594423530cb64\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8099cfa26c78d69b8ecb814a41e640d8\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\136c1c006d50f437770614f71f6d5ea9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9e62e3d16ffbe256b2a61269953d6d92\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\96bb62dadc8184b0fd84d451073fd8d9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2ca156c46868572608ac5dcb4af6d46a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f1d2113320527036bb62ed0704ffcee9\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:1-30:12
@@ -65,22 +83,52 @@ INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\Android
 		ADDED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:5:5-28:19
-MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6571209f3fbd259d19d2adf408a1b7c0\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6571209f3fbd259d19d2adf408a1b7c0\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\c881b55119de1c3146a205041c150674\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\c881b55119de1c3146a205041c150674\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\febd829689cec484008b678572545c38\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\febd829689cec484008b678572545c38\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\41ab52a07574b2a110c4411d60a20337\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\41ab52a07574b2a110c4411d60a20337\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\cb270c4efb9a6b7ed2266f3ec12af8b5\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\cb270c4efb9a6b7ed2266f3ec12af8b5\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\81fcb45acc36e7fc786089c6eca3fdb9\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\81fcb45acc36e7fc786089c6eca3fdb9\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\6c89000cbfbe004410faaa5865ca3a2e\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\6c89000cbfbe004410faaa5865ca3a2e\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e916672cf7c85d44fdb430f291fe8e84\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e916672cf7c85d44fdb430f291fe8e84\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\394bf0a94671222561620eb7f669f5ac\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\394bf0a94671222561620eb7f669f5ac\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\252100158a9f6a71a34235d0d52c12dc\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\252100158a9f6a71a34235d0d52c12dc\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\442968ce15c5dd5d562713229be1b38c\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\442968ce15c5dd5d562713229be1b38c\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\8f5484dbab92e3ed251afe1b00389c68\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\8f5484dbab92e3ed251afe1b00389c68\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\442968ce15c5dd5d562713229be1b38c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -125,86 +173,122 @@ uses-sdk
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
-MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7002d12afc6e953a9fbc2fda920e3422\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7002d12afc6e953a9fbc2fda920e3422\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6571209f3fbd259d19d2adf408a1b7c0\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6571209f3fbd259d19d2adf408a1b7c0\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\c881b55119de1c3146a205041c150674\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\c881b55119de1c3146a205041c150674\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\ad4a9900ee650cab445b7a64bbefb6e8\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\ad4a9900ee650cab445b7a64bbefb6e8\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e2ead5f317d22088c48cad1a61f8b969\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e2ead5f317d22088c48cad1a61f8b969\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\MOMANI\.gradle\caches\transforms-3\aabd96d17d3f8389713fa62fe78ebf8d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\MOMANI\.gradle\caches\transforms-3\aabd96d17d3f8389713fa62fe78ebf8d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] C:\Users\MOMANI\.gradle\caches\transforms-3\d9232303d763ecf06e1d0bf7fdf95963\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] C:\Users\MOMANI\.gradle\caches\transforms-3\d9232303d763ecf06e1d0bf7fdf95963\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\5bd123c6721d686da853b73d0271c146\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\5bd123c6721d686da853b73d0271c146\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e3edafebae16c4a714f78b69e1a2b42e\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e3edafebae16c4a714f78b69e1a2b42e\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\47ac39755f246ef2ff54ad5b7942d42f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\47ac39755f246ef2ff54ad5b7942d42f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e5a7f5c955953cc9d13feeef1215b998\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e5a7f5c955953cc9d13feeef1215b998\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\385e466706e73bb3d73bbe6b4875519d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\385e466706e73bb3d73bbe6b4875519d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9e273d98ab3096fcf193178fecca25fc\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9e273d98ab3096fcf193178fecca25fc\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f64967c674a30b5964ec360f3fe1fd1e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f64967c674a30b5964ec360f3fe1fd1e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\1cbb9568b0ad18efcfa640a8dc80d6d7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\1cbb9568b0ad18efcfa640a8dc80d6d7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\aa8ac483add921dafa22eb66b84f2064\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\aa8ac483add921dafa22eb66b84f2064\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\74dede7469dde4ebb849523538d1356b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\74dede7469dde4ebb849523538d1356b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5ce07e52a7d4e86d32024963e64ae55f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5ce07e52a7d4e86d32024963e64ae55f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\bebc84e5611febee61e63b319d718ccf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\bebc84e5611febee61e63b319d718ccf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\164e3c0afb92a7e3b5c15f9935adbebd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\164e3c0afb92a7e3b5c15f9935adbebd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\d61520087bb53d23a4e3afad5636d15d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\d61520087bb53d23a4e3afad5636d15d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\9fd09e59b026a4322a59de35da9a666a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\9fd09e59b026a4322a59de35da9a666a\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6eae727b2a94f7298932b49e5c09d20b\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\6eae727b2a94f7298932b49e5c09d20b\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\fd709bc2c3799f8b0fbf7f37a12ccad1\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\fd709bc2c3799f8b0fbf7f37a12ccad1\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3d0b12a6a2875ebc8055ad98f7863014\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\7f4858d3b05a121bbfdbd0f3702fd854\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\4ed59577b3c31daa698d7cd9567771e1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\4ed59577b3c31daa698d7cd9567771e1\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\79e57da9ef16725cd636178f64b7ce13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\79e57da9ef16725cd636178f64b7ce13\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\b757991fd5fc3fc47c8c905252c7f81f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\b757991fd5fc3fc47c8c905252c7f81f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\baff6bc1dec7633aaeef1184ff5f66bb\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\baff6bc1dec7633aaeef1184ff5f66bb\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0de8b80e80221d3f31c9086666059ce1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0de8b80e80221d3f31c9086666059ce1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\de2279805fd1769856255174ea323925\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\de2279805fd1769856255174ea323925\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\a91d0e13601b70491790d353890fd533\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\a91d0e13601b70491790d353890fd533\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\eb096476208bed94cd51cc904aa804e3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\87b6f924c6c766718f595823a69da52a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\fb44608a9e1d20332c6690b5dda0b67e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\956c598be0a4b8aadc8deba61d585f55\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\956c598be0a4b8aadc8deba61d585f55\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\febd829689cec484008b678572545c38\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\MOMANI\.gradle\caches\transforms-3\febd829689cec484008b678572545c38\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\41ab52a07574b2a110c4411d60a20337\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\41ab52a07574b2a110c4411d60a20337\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\3346b3adbf4b5fa04d5500b9c9a82404\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\3346b3adbf4b5fa04d5500b9c9a82404\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\cb270c4efb9a6b7ed2266f3ec12af8b5\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\cb270c4efb9a6b7ed2266f3ec12af8b5\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\c179d4eea858371ad05f10dcd184094d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\c179d4eea858371ad05f10dcd184094d\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\81fcb45acc36e7fc786089c6eca3fdb9\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\81fcb45acc36e7fc786089c6eca3fdb9\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2cab7994b4cdc123ed69660219d245c7\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2cab7994b4cdc123ed69660219d245c7\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\6c89000cbfbe004410faaa5865ca3a2e\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\6c89000cbfbe004410faaa5865ca3a2e\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e916672cf7c85d44fdb430f291fe8e84\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\e916672cf7c85d44fdb430f291fe8e84\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\394bf0a94671222561620eb7f669f5ac\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\MOMANI\.gradle\caches\transforms-3\394bf0a94671222561620eb7f669f5ac\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\252100158a9f6a71a34235d0d52c12dc\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\252100158a9f6a71a34235d0d52c12dc\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\MOMANI\.gradle\caches\transforms-3\d4b60b6551f9b8646394b11c59397093\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\MOMANI\.gradle\caches\transforms-3\d4b60b6551f9b8646394b11c59397093\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\MOMANI\.gradle\caches\transforms-3\a14e051a2a462612fcb6fd2aa5fdd9f1\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\MOMANI\.gradle\caches\transforms-3\a14e051a2a462612fcb6fd2aa5fdd9f1\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\4dc1efedb77a02dcf47f417ec36d3ec9\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\MOMANI\.gradle\caches\transforms-3\4dc1efedb77a02dcf47f417ec36d3ec9\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98aac9701b0afce894150d0299208434\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98aac9701b0afce894150d0299208434\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\d355efa70f4e064576cae249b839ce32\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\d355efa70f4e064576cae249b839ce32\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3ac5d06fddfaf02598d25854c3effa92\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3ac5d06fddfaf02598d25854c3effa92\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\b428c918418af08e6934797c08866bcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\b428c918418af08e6934797c08866bcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7ce4db31cc83ac522b81e097964a1173\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7ce4db31cc83ac522b81e097964a1173\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2c212ed3ff03dab422ad98605fcf3094\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2c212ed3ff03dab422ad98605fcf3094\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9de1fe3f11bd0588087df86525362cc8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9de1fe3f11bd0588087df86525362cc8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\de501faffd8dab867ea3c3eb4ef90f62\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\de501faffd8dab867ea3c3eb4ef90f62\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\c067b648f1133eea7b7c85bb85311739\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\c067b648f1133eea7b7c85bb85311739\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f97e629bb2a47248606a920c25763444\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f97e629bb2a47248606a920c25763444\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0480317d4db7a4ef827f9259d72f4877\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0480317d4db7a4ef827f9259d72f4877\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\759755c034709e57aeb3c75ee8cd94b1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\759755c034709e57aeb3c75ee8cd94b1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\442968ce15c5dd5d562713229be1b38c\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\MOMANI\.gradle\caches\transforms-3\442968ce15c5dd5d562713229be1b38c\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\09af22c0ef67c98177b78500fd9e0d0a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\09af22c0ef67c98177b78500fd9e0d0a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\806bea8dc90b3c63e0fff64f5862575f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\806bea8dc90b3c63e0fff64f5862575f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\095f772ab9317603c5baa830f746d6ec\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\095f772ab9317603c5baa830f746d6ec\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\22bcdd9445be8184c68a7afa41660aa0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\22bcdd9445be8184c68a7afa41660aa0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\4510b72cbbd30a5bba59d31ad935134e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\4510b72cbbd30a5bba59d31ad935134e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\8f5484dbab92e3ed251afe1b00389c68\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MOMANI\.gradle\caches\transforms-3\8f5484dbab92e3ed251afe1b00389c68\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\395865d846ce0c79f26c1a87fa2b7d9b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\395865d846ce0c79f26c1a87fa2b7d9b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\ae2794b5ae87b357067c079d507b318a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\ae2794b5ae87b357067c079d507b318a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\fb17f97d0d119703015996409be47c7c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\MOMANI\.gradle\caches\transforms-3\fb17f97d0d119703015996409be47c7c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\15f0ad14e50f93d4786bde444fa7b4c1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\15f0ad14e50f93d4786bde444fa7b4c1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\d128e6f5281b62981bf594423530cb64\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\d128e6f5281b62981bf594423530cb64\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8099cfa26c78d69b8ecb814a41e640d8\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8099cfa26c78d69b8ecb814a41e640d8\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\136c1c006d50f437770614f71f6d5ea9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\136c1c006d50f437770614f71f6d5ea9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9e62e3d16ffbe256b2a61269953d6d92\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\9e62e3d16ffbe256b2a61269953d6d92\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\96bb62dadc8184b0fd84d451073fd8d9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\96bb62dadc8184b0fd84d451073fd8d9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2ca156c46868572608ac5dcb4af6d46a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\2ca156c46868572608ac5dcb4af6d46a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f1d2113320527036bb62ed0704ffcee9\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\f1d2113320527036bb62ed0704ffcee9\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -215,29 +299,165 @@ INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\Android
 		INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\MOMANI\AndroidStudioProjects\MyTutor\app\src\main\AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\3f2d7653795970b90f2f64def6239467\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\99bdcfa1300d5475c92fe587eb4804fa\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\d76867ea304683be786afe4cf5e6b1a9\transformed\firebase-common-ktx-20.3.2\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\01096c12e1c520685697e47c946f5024\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\0cbb72ff0934db4b597dff0d7fb3dd04\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\7f0f7cebce9c270ec668b0b56ccc866b\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] C:\Users\MOMANI\.gradle\caches\transforms-3\8edd1d7d796226a654294e7b04afd131\transformed\firebase-installations-17.1.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] C:\Users\MOMANI\.gradle\caches\transforms-3\c1e996801fd6a5e170d0455933dc73c3\transformed\firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8b73a3183bf73d055535ddea0ee2b3ed\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\MOMANI\.gradle\caches\transforms-3\acb939dfcacb08fb92eca86ebbd1900a\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\MOMANI\.gradle\caches\transforms-3\5d67dd5c3983e19dd7693303443d5c3e\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\8feefd7b9235f4663e2cba19e507ccfa\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\MOMANI\.gradle\caches\transforms-3\06d27acbb91be2ebb90fa781e4550a36\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\MOMANI\.gradle\caches\transforms-3\04f29a0df00e4d2a49be1e1bfa0f85d5\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
