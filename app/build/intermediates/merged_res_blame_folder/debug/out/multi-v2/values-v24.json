@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.psut.mytutor.app-mergeDebugResources-27:/values-v24/values-v24.xml",
+            "outputFile": "com.psut.mytutor.app-mergeDebugResources-4:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MOMANI\\.gradle\\caches\\transforms-3\\3346b3adbf4b5fa04d5500b9c9a82404\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\MOMANI\\.gradle\\caches\\transforms-3\\febd829689cec484008b678572545c38\\transformed\\material-1.5.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Abdulsalam\\.gradle\\caches\\transforms-3\\febd829689cec484008b678572545c38\\transformed\\material-1.5.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -30,6 +20,16 @@
                         "endLines": "4,5,6,7,10,13,16,19",
                         "endColumns": "84,98,86,100,10,10,10,10",
                         "endOffsets": "427,526,613,714,913,1126,1327,1542"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Abdulsalam\\.gradle\\caches\\transforms-3\\3346b3adbf4b5fa04d5500b9c9a82404\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

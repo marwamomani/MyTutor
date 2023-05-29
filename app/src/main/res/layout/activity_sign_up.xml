@@ -11,7 +11,7 @@
         android:id="@+id/tvTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Welcome Back!"
+        android:text="Welcome!"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="25sp"
@@ -45,7 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/black"
-            android:text="Please enter your email and password to login"/>
+            android:text="Please enter your email and password to sign up"/>
 
         <EditText
             android:id="@+id/etEmail"
@@ -64,8 +64,8 @@
             android:layout_height="wrap_content"/>
 
         <Button
-            android:id="@+id/btnLogin"
-            android:text="Login"
+            android:id="@+id/btnSignUp"
+            android:text="Sign up"
             android:layout_marginTop="8dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
@@ -76,13 +76,13 @@
             android:orientation="horizontal">
 
             <TextView
-                android:text="If you don't have an account"
+                android:text="If you already have an account"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
             <TextView
-                android:id="@+id/tvGoToSignUpPageBtn"
-                android:text="Click here"
+                android:id="@+id/tvGoToLogInPageBtn"
+                android:text="Log in instead"
                 android:textStyle="italic"
                 android:textColor="@color/blue"
                 android:layout_width="wrap_content"
