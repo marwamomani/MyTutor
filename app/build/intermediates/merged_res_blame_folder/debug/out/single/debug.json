@@ -1,11 +1,59 @@
 [
     {
-        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.psut.mytutor.app-main-8:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.psut.mytutor.app-main-8:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.psut.mytutor.app-main-8:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.psut.mytutor.app-pngs-1:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_item_tutor_record.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/item_tutor_record.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.psut.mytutor.app-main-8:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.psut.mytutor.app-main-8:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_user_profile.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.psut.mytutor.app-main-8:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_sign_up.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.psut.mytutor.app-main-8:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.psut.mytutor.app-main-8:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_main.xml.flat",
@@ -24,51 +72,43 @@
         "source": "com.psut.mytutor.app-main-8:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.psut.mytutor.app-main-8:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_item_user_topic.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/item_user_topic.xml"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_item_tutor_for_admin.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/item_tutor_for_admin.xml"
     },
     {
         "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.psut.mytutor.app-main-8:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.psut.mytutor.app-merged_res-6:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.psut.mytutor.app-pngs-1:/drawable-anydpi-v24/ic_launcher_foreground.xml"
-    },
-    {
         "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "com.psut.mytutor.app-main-8:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_tutor_profile.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/activity_tutor_profile.xml"
     },
     {
         "merged": "com.psut.mytutor.app-merged_res-6:/xml_backup_rules.xml.flat",
         "source": "com.psut.mytutor.app-main-8:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.psut.mytutor.app-main-8:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_admin.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/activity_admin.xml"
     },
     {
-        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.psut.mytutor.app-main-8:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.psut.mytutor.app-merged_res-6:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/drawable/ic_baseline_account_circle_24.xml"
     },
     {
         "merged": "com.psut.mytutor.app-merged_res-6:/xml_data_extraction_rules.xml.flat",
         "source": "com.psut.mytutor.app-main-8:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.psut.mytutor.app-main-8:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_sign_up.xml.flat",
-        "source": "com.psut.mytutor.app-main-8:/layout/activity_sign_up.xml"
-    },
-    {
-        "merged": "com.psut.mytutor.app-merged_res-6:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.psut.mytutor.app-main-8:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.psut.mytutor.app-merged_res-6:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.psut.mytutor.app-main-8:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.psut.mytutor.app-merged_res-6:/layout_activity_user_home_page.xml.flat",
+        "source": "com.psut.mytutor.app-main-8:/layout/activity_user_home_page.xml"
     }
 ]

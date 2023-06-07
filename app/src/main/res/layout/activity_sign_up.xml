@@ -48,6 +48,27 @@
             android:text="Please enter your email and password to sign up"/>
 
         <EditText
+            android:id="@+id/etName"
+            android:hint="Enter your name"
+            android:layout_marginTop="16dp"
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/etPhoneNumber"
+            android:hint="Enter your phone number"
+            android:layout_marginTop="16dp"
+            android:inputType="phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/etMajor"
+            android:hint="Enter your major"
+            android:layout_marginTop="16dp"
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <EditText
             android:id="@+id/etEmail"
             android:hint="Enter your email address"
             android:layout_marginTop="16dp"
@@ -91,4 +112,13 @@
         </androidx.appcompat.widget.LinearLayoutCompat>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
+    <ProgressBar
+        android:id="@+id/pbLoader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

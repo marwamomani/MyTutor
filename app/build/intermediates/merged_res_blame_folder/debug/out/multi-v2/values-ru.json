@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Abdulsalam\\.gradle\\caches\\transforms-3\\e1f03d5cc67210ddaa3fc7f42840f5d4\\transformed\\play-services-base-18.0.1\\res\\values-ru\\values.xml",
+                    "source": "C:\\Users\\Abdulsalam\\.gradle\\caches\\transforms-3\\e33be374e901fb667ed50b5cf3062113\\transformed\\play-services-base-18.1.0\\res\\values-ru\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
